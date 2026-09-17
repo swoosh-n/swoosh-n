@@ -2,7 +2,7 @@
 
 I'm a self-taught developer. I build iOS apps and websites, mostly things I want to use myself, and I learn by shipping them.
 
-- 📱 Currently building **Decree**, a prayer times app for iPhone
+- 📱 Building **Revelation**, a Quran reading and listening app, and **Decree**, a prayer times app, both for iPhone
 - 🌐 Made the website for **SpeakSmart**, a student communication university club
 - 🌱 Always learning: SwiftUI, React, and whatever the next project needs
 
@@ -23,8 +23,9 @@ I'm a self-taught developer. I build iOS apps and websites, mostly things I want
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**Revelation**](https://github.com/swoosh-n/revelation) | Quran reading and listening app with translations, search and a full audio player | Swift, SwiftUI, quran.com API |
 | [**Decree**](https://github.com/swoosh-n/decree) | Prayer times app whose sky gradient follows the real position of the sun | Swift, SwiftUI |
-| [**SpeakSmart**](https://github.com/swoosh-n/speaksmart) | Interactive website for a student-led communication club at the University of Ottawa | JavaScript, GSAP, Three.js |
+| [**SpeakSmart**](https://github.com/swoosh-n/speaksmart) | Interactive website for a student-led university communication club | JavaScript, GSAP, Three.js |
 | [**CineFlow**](https://github.com/swoosh-n/cineflow) | Movie and TV browsing site with trending lists, search and a cinematic UI | React, TypeScript, Tailwind, Framer Motion |
 
 ---
