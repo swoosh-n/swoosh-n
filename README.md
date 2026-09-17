@@ -3,7 +3,7 @@
 I'm a self-taught developer. I build iOS apps and websites, mostly things I want to use myself, and I learn by shipping them.
 
 - 📱 Currently building **Decree**, a prayer times app for iPhone
-- 🌐 Made the website for **SpeakSmart**, a student communication club at uOttawa
+- 🌐 Made the website for **SpeakSmart**, a student communication university club
 - 🌱 Always learning: SwiftUI, React, and whatever the next project needs
 
 ### 🛠️ Tools I use
@@ -29,4 +29,4 @@ I'm a self-taught developer. I build iOS apps and websites, mostly things I want
 
 ---
 
-<sub>Thanks for stopping by ✌️</sub>
+<sub>merci</sub>
