@@ -1,10 +1,10 @@
-## Hi, I'm Soroush 👋
+## Hi, I'm Soroush
 
 I'm a self-taught developer. I build iOS apps and websites, mostly things I want to use myself, and I learn by shipping them.
 
 - 📱 Building **Revelation**, a Quran reading and listening app, and **Decree**, a prayer times app, both for iPhone
 - 🌐 Made the website for **SpeakSmart**, a student communication university club
-- 🌱 Always learning: SwiftUI, React, and whatever the next project needs
+- 🌱 Learning: SwiftUI, React, and whatever the next project needs
 
 ### 🛠️ Tools I use
 
